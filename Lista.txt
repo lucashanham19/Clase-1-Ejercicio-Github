@@ -1,4 +1,4 @@
----------------Ejemplo------------------
+﻿---------------Ejemplo------------------
 Kleiman, Yani (xxxxxx) -> Usuario Github: yanikleiman
 ----------------------------------------
 
@@ -6,7 +6,7 @@ Billares Lastra, Diego (232666)
 Franchi Hornos, Juan Luis (219687)
 Gibbs Alvarez, Nicolas Ignacio (227347)
 González Martres, Nicolás (199044)
-Hanham Martinez, Juan Lucas (217746)
+Hanham Martinez, Juan Lucas (217746) lucashanham19
 Iriart Córdoba, Mónica Beatriz (76637)
 Lamas Vigorito, Luis Ignacio (87036)
 Levin Isguieff, Darío Selek (186791)
